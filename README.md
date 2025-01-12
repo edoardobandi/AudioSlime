@@ -1,4 +1,3 @@
-```markdown
 # Audio Slime
 
 Audio Slime is a Python application that allows you to concatenate MP3 audio tracks into a single file, generate timestamp metadata for YouTube, and download audio tracks directly from Spotify using **spotdl**. The application features a modern, dark-themed graphical interface built with **Tkinter** and **TtkThemes**.
